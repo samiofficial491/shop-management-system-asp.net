@@ -1,0 +1,53 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MP-2.master.cs" Inherits="Shop_Management_System.MP_2" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+
+    <link href="MP-2.css" rel="stylesheet" />
+    <link href="~/Images/Favicon.png" type="image/png" rel="icon" />
+
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lexend:wght@100..900&display=swap" rel="stylesheet" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+<body>
+    <form id="form1" runat="server">
+
+        <nav class="menu">
+            <asp:Image ID="Logo" runat="server" ImageUrl="~/Images/Logo.png" CssClass="logo" AlternateText="Logo" />
+            <ul>
+                <li>
+                    <asp:HyperLink NavigateUrl="~/default.aspx" runat="server">Home</asp:HyperLink></li>
+                <li>
+                    <asp:HyperLink NavigateUrl="~/features.aspx" runat="server">Features</asp:HyperLink></li>
+                <li>
+                    <asp:HyperLink NavigateUrl="~/contactus.aspx" runat="server">Contact Us</asp:HyperLink></li>
+            </ul>
+
+            <asp:LinkButton ID="btnLogin" runat="server" CssClass="login" PostBackUrl="~/login.aspx" Text="Login" />
+
+        </nav>
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+
+        <footer class="footer">
+
+            <div class="copyright">
+                <p>Copyright &copy; 2025 Shop Management System. All Rights Reserved.</p>
+            </div>
+
+        </footer>
+
+    </form>
+</body>
+</html>

@@ -1,0 +1,130 @@
+﻿.body {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter';
+}
+
+
+/*Menu Start*/
+
+.menu {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    padding: 1rem 2rem;
+    margin-bottom: 3.5rem;
+}
+
+.logo {
+    width: 4rem;
+}
+
+.menu-section {
+    display: flex;
+    align-items: center;
+}
+
+.notification ion-icon {
+    color: white;
+    width: 1.4rem;
+    height: 1.4rem;
+    margin-right: 1.4rem;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+    .notification ion-icon:hover {
+        color: rgb(160, 160, 160);
+    }
+
+.profile-picture {
+    width: 3rem;
+    border-radius: 50%;
+    position: relative;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+    .profile-picture:hover {
+        opacity: 0.7;
+    }
+
+.dashboard-menu-wrap {
+    position: absolute;
+    top: 100%;
+    right: 1.5%;
+    margin-top: -0.8rem;
+    width: max-content;
+    max-height: max-content;
+    overflow: hidden;
+    z-index: 1000;
+}
+
+.dashboard-menu {
+    background-color: white;
+    border-radius: 20px;
+    border: #dddddd 1px solid;
+    padding: 1.5rem 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+}
+
+    .dashboard-menu hr {
+        color: black;
+        border: none;
+        height: 1px;
+        background-color: rgb(160, 160, 160);
+        margin: 0.1rem 0;
+        border-radius: 5px;
+        width: 100%;
+        text-align: center;
+    }
+
+.dashboard-menu-button,
+.logout-menu-button {
+    width: 100%;
+    padding: 0 0.8rem;
+    border: none;
+    outline: none;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    font-size: 0.8rem;
+    cursor: pointer;
+    transition: 0.4s;
+    font-family: 'Inter';
+}
+
+    .dashboard-menu-button:hover,
+    .logout-menu-button:hover {
+        color: rgb(160, 160, 160);
+    }
+
+
+/*Menu End*/
+
+
+/*Footer Start*/
+
+.footer {
+    position: relative;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    width: 100%;
+    margin-top: 4rem;
+    padding: 1rem 0;
+}
+
+.copyright {
+    color: white;
+    font-size: 0.8rem;
+    text-align: center;
+}
+
+/*Footer End*/

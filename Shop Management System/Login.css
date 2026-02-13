@@ -1,0 +1,141 @@
+﻿body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    font-family: 'Inter';
+}
+
+.title-1,
+.title-2{
+    font-size: 2.5rem;
+    text-align: center;
+    margin-top: 1.5rem;
+    margin-bottom: 3rem;
+}
+
+.title-2{
+    margin-bottom: 1.5rem;
+}
+
+.login-container,
+.forgot-password-container{
+    width: 25rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #dddddd;
+    border-radius: 20px;
+    padding: 2rem;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.username,
+.password,
+.email{
+    border: none;
+    outline: none;
+    padding: 1rem 0.8rem;
+    border-radius: 10px;
+    background-color: white;
+    width: 80%;
+    font-size: 0.8rem;
+    margin-bottom: 2rem;
+}
+.username{
+    margin-bottom: 2.5rem;
+}
+
+.forgot-password-section {
+    width: 85%;
+    text-align: end;
+    margin-bottom: 2rem;
+}
+
+.forgot-password {
+    font-size: 0.9rem;
+    border: none;
+    outline: none;
+    background: #dddddd; 
+    text-decoration: none;
+    color: black;
+    transition: 0.4s;
+}
+
+.forgot-password:hover {
+    color: rgb(160, 160, 160);
+}
+
+.note-wrap{
+    width: 85%;
+}
+
+.note {
+    text-align: left;
+    font-size: 0.8rem;
+    margin-top: -0.6rem;
+    margin-bottom: 2rem;
+    color: #666666;
+}
+
+.note span{
+    font-weight: bold;
+}
+
+.forgot-password-wrap{
+    display: flex;
+    gap: 1rem;
+    width: 85%;
+}
+
+.modal-background {
+    background-color: rgba(0, 0, 0, 0.5);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.login-button,
+.confirm-button,
+.close-button{
+    width: 85%;
+    padding: 0.8rem;
+    border: none;
+    outline: none;
+    background-color: black;
+    color: white;
+    font-size: 0.8rem;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+    .login-button:hover,
+    .confirm-button:hover,
+    .close-button:hover {
+        background-color: rgb(160, 160, 160);
+    }
+
+.error-message,
+.message{
+    margin-top: 0.8rem;
+    font-size: 1rem;
+}
+
+.login-container p {
+    font-size: 0.9rem;
+}
+
+    .login-container p a {
+        text-decoration: none;
+        color: black;
+        font-weight: bold;
+        transition: 0.4s;
+    }
+
+        .login-container p a:hover {
+            color: rgb(160, 160, 160);
+        }

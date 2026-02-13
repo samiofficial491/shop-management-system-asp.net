@@ -1,0 +1,78 @@
+﻿body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 95vh;
+    font-family: 'Inter';
+}
+
+.title {
+    font-size: 2.5rem;
+    text-align: center;
+    margin-top: 1.5rem;
+    margin-bottom: 3rem;
+}
+
+.signup-container {
+    width: 25rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #dddddd;
+    border-radius: 20px;
+    padding: 2rem;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.name,
+.username,
+.email,
+.password,
+.confirm-password {
+    border: none;
+    outline: none;
+    padding: 1rem 0.8rem;
+    border-radius: 10px;
+    background-color: white;
+    width: 80%;
+    font-size: 0.8rem;
+    margin-bottom: 2.5rem;
+}
+
+.signup-button {
+    width: 85%;
+    padding: 0.8rem;
+    border: none;
+    outline: none;
+    background-color: black;
+    color: white;
+    font-size: 0.8rem;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+    .signup-button:hover {
+        background-color: rgb(160, 160, 160);
+    }
+
+.error-message {
+    margin-top: 0.8rem;
+    font-size: 1rem;
+}
+
+.signup-container p {
+    font-size: 0.9rem;
+}
+
+    .signup-container p a {
+        text-decoration: none;
+        color: black;
+        font-weight: bold;
+        transition: 0.4s;
+    }
+
+.signup-container p a:hover {
+    color: rgb(160, 160, 160);
+}

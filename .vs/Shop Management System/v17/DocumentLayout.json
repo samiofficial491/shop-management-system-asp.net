@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{530BFBF2-ACAA-4E99-AD29-82104AB7ADE7}|Shop Management System\\Shop Management System.csproj|C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\shop management system\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530BFBF2-ACAA-4E99-AD29-82104AB7ADE7}|Shop Management System\\Shop Management System.csproj|solutionrelative:shop management system\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530BFBF2-ACAA-4E99-AD29-82104AB7ADE7}|Shop Management System\\Shop Management System.csproj|c:\\users\\ahmad\\documents\\visual studio 2022\\shop git 3\\shop management system\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530BFBF2-ACAA-4E99-AD29-82104AB7ADE7}|Shop Management System\\Shop Management System.csproj|solutionrelative:shop management system\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530BFBF2-ACAA-4E99-AD29-82104AB7ADE7}|Shop Management System\\Shop Management System.csproj|C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\shop management system\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{530BFBF2-ACAA-4E99-AD29-82104AB7ADE7}|Shop Management System\\Shop Management System.csproj|solutionrelative:shop management system\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530BFBF2-ACAA-4E99-AD29-82104AB7ADE7}|Shop Management System\\Shop Management System.csproj|C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\shop management system\\checkotp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530BFBF2-ACAA-4E99-AD29-82104AB7ADE7}|Shop Management System\\Shop Management System.csproj|solutionrelative:shop management system\\checkotp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530BFBF2-ACAA-4E99-AD29-82104AB7ADE7}|Shop Management System\\Shop Management System.csproj|C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\shop management system\\checkotp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{530BFBF2-ACAA-4E99-AD29-82104AB7ADE7}|Shop Management System\\Shop Management System.csproj|solutionrelative:shop management system\\checkotp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530BFBF2-ACAA-4E99-AD29-82104AB7ADE7}|Shop Management System\\Shop Management System.csproj|C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\shop management system\\employees.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{530BFBF2-ACAA-4E99-AD29-82104AB7ADE7}|Shop Management System\\Shop Management System.csproj|solutionrelative:shop management system\\employees.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530BFBF2-ACAA-4E99-AD29-82104AB7ADE7}|Shop Management System\\Shop Management System.csproj|C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\shop management system\\supplierdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530BFBF2-ACAA-4E99-AD29-82104AB7ADE7}|Shop Management System\\Shop Management System.csproj|solutionrelative:shop management system\\supplierdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530BFBF2-ACAA-4E99-AD29-82104AB7ADE7}|Shop Management System\\Shop Management System.csproj|C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\shop management system\\suppliers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530BFBF2-ACAA-4E99-AD29-82104AB7ADE7}|Shop Management System\\Shop Management System.csproj|solutionrelative:shop management system\\suppliers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530BFBF2-ACAA-4E99-AD29-82104AB7ADE7}|Shop Management System\\Shop Management System.csproj|C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\shop management system\\inventory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530BFBF2-ACAA-4E99-AD29-82104AB7ADE7}|Shop Management System\\Shop Management System.csproj|solutionrelative:shop management system\\inventory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530BFBF2-ACAA-4E99-AD29-82104AB7ADE7}|Shop Management System\\Shop Management System.csproj|C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\shop management system\\inventory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{530BFBF2-ACAA-4E99-AD29-82104AB7ADE7}|Shop Management System\\Shop Management System.csproj|solutionrelative:shop management system\\inventory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530BFBF2-ACAA-4E99-AD29-82104AB7ADE7}|Shop Management System\\Shop Management System.csproj|C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\shop management system\\inventorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530BFBF2-ACAA-4E99-AD29-82104AB7ADE7}|Shop Management System\\Shop Management System.csproj|solutionrelative:shop management system\\inventorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530BFBF2-ACAA-4E99-AD29-82104AB7ADE7}|Shop Management System\\Shop Management System.csproj|C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\shop management system\\suppliers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{530BFBF2-ACAA-4E99-AD29-82104AB7ADE7}|Shop Management System\\Shop Management System.csproj|solutionrelative:shop management system\\suppliers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeData.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\Shop Management System\\EmployeeData.cs",
+              "RelativeDocumentMoniker": "Shop Management System\\EmployeeData.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\Shop Management System\\EmployeeData.cs",
+              "RelativeToolTip": "Shop Management System\\EmployeeData.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAwwEwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T07:50:56.197Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\Shop Management System\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Shop Management System\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\Shop Management System\\Login.aspx.cs",
+              "RelativeToolTip": "Shop Management System\\Login.aspx.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwDUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T04:19:02.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckOTP.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\Shop Management System\\CheckOTP.aspx.cs",
+              "RelativeDocumentMoniker": "Shop Management System\\CheckOTP.aspx.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\Shop Management System\\CheckOTP.aspx.cs",
+              "RelativeToolTip": "Shop Management System\\CheckOTP.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T04:18:45.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckOTP.aspx",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\Shop Management System\\CheckOTP.aspx",
+              "RelativeDocumentMoniker": "Shop Management System\\CheckOTP.aspx",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\Shop Management System\\CheckOTP.aspx",
+              "RelativeToolTip": "Shop Management System\\CheckOTP.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-24T04:18:39.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\Shop Management System\\Login.aspx",
+              "RelativeDocumentMoniker": "Shop Management System\\Login.aspx",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\Shop Management System\\Login.aspx",
+              "RelativeToolTip": "Shop Management System\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-24T04:17:31.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employees.aspx",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\Shop Management System\\Employees.aspx",
+              "RelativeDocumentMoniker": "Shop Management System\\Employees.aspx",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\Shop Management System\\Employees.aspx",
+              "RelativeToolTip": "Shop Management System\\Employees.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-24T04:05:46.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Suppliers.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\Shop Management System\\Suppliers.aspx.cs",
+              "RelativeDocumentMoniker": "Shop Management System\\Suppliers.aspx.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\Shop Management System\\Suppliers.aspx.cs",
+              "RelativeToolTip": "Shop Management System\\Suppliers.aspx.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T06:40:55.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Suppliers.aspx",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\Shop Management System\\Suppliers.aspx",
+              "RelativeDocumentMoniker": "Shop Management System\\Suppliers.aspx",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\Shop Management System\\Suppliers.aspx",
+              "RelativeToolTip": "Shop Management System\\Suppliers.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-23T06:40:32.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SupplierData.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\Shop Management System\\SupplierData.cs",
+              "RelativeDocumentMoniker": "Shop Management System\\SupplierData.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\Shop Management System\\SupplierData.cs",
+              "RelativeToolTip": "Shop Management System\\SupplierData.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T05:42:32.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InventoryData.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\Shop Management System\\InventoryData.cs",
+              "RelativeDocumentMoniker": "Shop Management System\\InventoryData.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\Shop Management System\\InventoryData.cs",
+              "RelativeToolTip": "Shop Management System\\InventoryData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T16:57:22.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Inventory.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\Shop Management System\\Inventory.aspx.cs",
+              "RelativeDocumentMoniker": "Shop Management System\\Inventory.aspx.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\Shop Management System\\Inventory.aspx.cs",
+              "RelativeToolTip": "Shop Management System\\Inventory.aspx.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwEYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:00:21.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Inventory.aspx",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\Shop Management System\\Inventory.aspx",
+              "RelativeDocumentMoniker": "Shop Management System\\Inventory.aspx",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\Shop Git 3\\Shop Management System\\Inventory.aspx",
+              "RelativeToolTip": "Shop Management System\\Inventory.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-22T16:59:39.557Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

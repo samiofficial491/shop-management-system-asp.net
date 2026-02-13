@@ -1,0 +1,245 @@
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\Shop Management System.dll.config
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\Shop Management System.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\Shop Management System.pdb
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\csc.exe
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\csc.exe.config
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\csc.rsp
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\csi.exe
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\csi.exe.config
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\csi.rsp
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\System.AppContext.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\System.Console.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\System.IO.Compression.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\System.Net.Http.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\System.ValueTuple.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\vbc.exe
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\vbc.exe.config
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\vbc.rsp
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\VBCSCompiler.exe
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\obj\Debug\Shop Management System.csproj.AssemblyReference.cache
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\obj\Debug\Shop Management System.csproj.CoreCompileInputs.cache
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\obj\Debug\Shop Man.8C4DF312.Up2Date
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\obj\Debug\Shop Management System.dll
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\obj\Debug\Shop Management System.pdb
+C:\Users\mhamz\OneDrive\Documents\Visual Studio\Shop Management System\Shop Management System\bin\AjaxControlToolkit.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\Shop Management System.dll.config
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\Shop Management System.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\Shop Management System.pdb
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\csc.exe
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\csc.exe.config
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\csc.rsp
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\csi.exe
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\csi.exe.config
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\csi.rsp
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\System.AppContext.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\System.Collections.Immutable.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\System.Console.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\System.Globalization.Calendars.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\System.IO.Compression.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\System.IO.FileSystem.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\System.Net.Http.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\System.Net.Sockets.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\System.Reflection.Metadata.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\System.ValueTuple.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\System.Xml.XPath.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\vbc.exe
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\vbc.exe.config
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\vbc.rsp
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\VBCSCompiler.exe
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\roslyn\VBCSCompiler.exe.config
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\AjaxControlToolkit.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Programming\.NET\Shop Git 3\Shop Management System\obj\Debug\Shop Management System.csproj.AssemblyReference.cache
+D:\Programming\.NET\Shop Git 3\Shop Management System\obj\Debug\Shop Management System.csproj.CoreCompileInputs.cache
+D:\Programming\.NET\Shop Git 3\Shop Management System\obj\Debug\Shop Man.8C4DF312.Up2Date
+D:\Programming\.NET\Shop Git 3\Shop Management System\obj\Debug\Shop Management System.dll
+D:\Programming\.NET\Shop Git 3\Shop Management System\obj\Debug\Shop Management System.pdb
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\Shop Management System.dll.config
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\Shop Management System.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\Shop Management System.pdb
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\csc.exe
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\csc.exe.config
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\csc.rsp
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\csi.exe
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\csi.exe.config
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\csi.rsp
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\System.AppContext.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\System.Console.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\System.IO.Compression.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\System.Net.Http.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\System.ValueTuple.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\vbc.exe
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\vbc.exe.config
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\vbc.rsp
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\VBCSCompiler.exe
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\AjaxControlToolkit.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\obj\Debug\Shop Management System.csproj.AssemblyReference.cache
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\obj\Debug\Shop Management System.csproj.CoreCompileInputs.cache
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\obj\Debug\Shop Man.8C4DF312.Up2Date
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\obj\Debug\Shop Management System.dll
+C:\Users\mhamz\Documents\Visual Studio Projects\Shop Git 3\Shop Management System\obj\Debug\Shop Management System.pdb
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\Shop Management System.dll.config
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\Shop Management System.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\Shop Management System.pdb
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\csc.exe
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\csc.exe.config
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\csc.rsp
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\csi.exe
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\csi.exe.config
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\csi.rsp
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\System.AppContext.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\System.Console.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\System.Net.Http.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\vbc.exe
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\vbc.exe.config
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\vbc.rsp
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\AjaxControlToolkit.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\obj\Debug\Shop Management System.csproj.AssemblyReference.cache
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\obj\Debug\Shop Management System.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\obj\Debug\Shop Man.8C4DF312.Up2Date
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\obj\Debug\Shop Management System.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\obj\Debug\Shop Management System.pdb
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\System.Buffers.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\System.Memory.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Ahmad\Documents\Visual Studio 2022\Shop Git 3\Shop Management System\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll

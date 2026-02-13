@@ -1,0 +1,93 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MP-1.Master.cs" Inherits="Shop_Management_System.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+
+    <link href="MP-1.css" rel="stylesheet" />
+    <link href="~/Images/Favicon.png" type="image/png" rel="icon" />
+
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lexend:wght@100..900&display=swap" rel="stylesheet" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+
+<body>
+    <form id="form1" runat="server">
+        
+        <asp:ScriptManager runat="server" />
+
+        <nav class="menu">
+            <asp:Image ID="Logo" runat="server" ImageUrl="~/Images/Logo.png" CssClass="logo" AlternateText="Logo" />
+
+            <ul>
+                <li>
+                    <asp:HyperLink ID="EmployeesLink" runat="server" NavigateUrl="~/employees.aspx">Employees</asp:HyperLink></li>
+                <li>
+                    <asp:HyperLink ID="InventoryLink" runat="server" NavigateUrl="~/inventory.aspx">Inventory</asp:HyperLink></li>
+                <li>
+                    <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/suppliers.aspx">Suppliers</asp:HyperLink></li>
+                <li>
+                    <asp:HyperLink ID="BillingLink" runat="server" NavigateUrl="~/billing.aspx">Billing</asp:HyperLink></li>
+            </ul>
+
+            <div class="menu-section">
+
+                <asp:HyperLink ID="NotificationLink" runat="server" NavigateUrl="~/notifications.aspx" CssClass="notification">
+                <ion-icon name="notifications"></ion-icon>
+
+                </asp:HyperLink>
+
+                <asp:UpdatePanel ID="DashboardButtonPanel" runat="server">
+                    <ContentTemplate>
+                        <asp:LinkButton ID="ToggleDashboardMenu" runat="server" OnClick="ToggleDashboardMenu_Click">
+                            <asp:Image ID="ProfilePictureLink" runat="server" ImageUrl="~/Images/Picture.jpg" CssClass="profile-picture" AlternateText="Profile Picture" />
+                        </asp:LinkButton>
+                    </ContentTemplate>
+                </asp:UpdatePanel>
+
+                <asp:UpdatePanel ID="DashboardPanel" runat="server" UpdateMode="Conditional">
+                    <ContentTemplate>
+                        <asp:Panel ID="DashboardMenu" runat="server" CssClass="dashboard-menu-wrap" Visible="false">
+                            <div class="dashboard-menu">
+                                <asp:LinkButton ID="Dashboard" runat="server" Text="Dashboard" CssClass="dashboard-menu-button" OnClick="Dashboard_Click" />
+                                <hr />
+                                <asp:LinkButton ID="Settings" runat="server" Text="Settings" CssClass="settings-menu-button" OnClick="Settings_Click" />
+                                <hr />
+                                <asp:LinkButton ID="Logout" runat="server" Text="Logout" CssClass="logout-menu-button" OnClick="Logout_Click" />
+                            </div>
+                        </asp:Panel>
+                    </ContentTemplate>
+                    <Triggers>
+                        <asp:AsyncPostBackTrigger ControlID="ToggleDashboardMenu" EventName="Click" />
+                    </Triggers>
+                </asp:UpdatePanel>
+
+            </div>
+
+        </nav>
+
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+
+
+        <footer class="footer">
+
+            <div class="copyright">
+                <p>Copyright &copy; 2025 Shop Management System. All Rights Reserved.</p>
+            </div>
+
+        </footer>
+       
+    </form>
+</body>
+</html>

@@ -1,0 +1,31 @@
+﻿body {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter';
+}
+
+.title {
+    font-size: 3rem;
+    text-align: center;
+}
+
+.hr {
+    border: none;
+    height: 3px;
+    background-color: #000;
+    margin-top: -1.4rem;
+    margin-bottom: 3.5rem;
+    border-radius: 5px;
+    width: 20%;
+    text-align: center;
+}
+
+.container {
+    background-color: #cccccc;
+    max-width: 80rem;
+    width: 100%;
+    margin: 0 auto;
+    padding: 2rem;
+    border-radius: 20px;
+}

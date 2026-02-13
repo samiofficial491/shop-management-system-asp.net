@@ -1,0 +1,319 @@
+﻿body {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter';
+}
+
+/*Title Start*/
+
+
+.title {
+    font-size: 3rem;
+    text-align: center;
+}
+
+.hr {
+    border: none;
+    height: 3px;
+    background-color: #000;
+    margin-top: -1.4rem;
+    margin-bottom: 3.5rem;
+    border-radius: 5px;
+    width: 20%;
+    text-align: center;
+}
+
+/*Title End*/
+
+
+/*Container Start*/
+
+
+.container {
+    background-color: #cccccc;
+    max-width: 80rem;
+    width: 100%;
+    margin: 0 auto;
+    padding: 2rem;
+    border-radius: 20px;
+}
+
+
+/*Upper Section Start*/
+
+.upper-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 65%;
+    margin: 0 auto;
+    margin-bottom: 1.5rem;
+}
+
+.discount {
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+    .discount ion-icon {
+        color: black;
+        background-color: white;
+        border-radius: 50%;
+        width: 1.2rem;
+        height: 1.2rem;
+        padding: 0.8rem;
+        transition: 0.4s;
+    }
+
+        .doscount ion-icon:hover {
+            color: rgb(160, 160, 160);
+        }
+
+.discount-menu-wrap {
+    position: absolute;
+    top: 100%;
+    left: 0%;
+    width: max-content;
+    max-height: max-content;
+    overflow: hidden;
+}
+
+.discount-menu {
+    background-color: white;
+    border-radius: 20px;
+    border: #dddddd 1px solid;
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.discount-field {
+    border: none;
+    outline: none;
+    padding: 0.8rem;
+    border-radius: 10px;
+    background-color: rgb(220, 220, 220);
+    font-size: 1rem;
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+    width: 25rem;
+}
+
+.error-message {
+    margin: 1rem 0;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.discount-menu-button {
+    width: 100%;
+    padding: 0.8rem;
+    border: none;
+    outline: none;
+    background-color: black;
+    color: white;
+    font-size: 0.8rem;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.4s;
+    font-family: 'Inter';
+}
+
+    .discount-menu-button:hover {
+        background-color: rgb(160, 160, 160);
+    }
+
+.buttons {
+    display: flex;
+    gap: 1rem;
+}
+
+.modal-background {
+    background-color: rgba(0, 0, 0, 0.5);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.search-bar {
+    display: flex;
+    align-items: center;
+    width: 60%;
+    padding: 0.8rem;
+    border-radius: 20px;
+    background-color: white;
+}
+
+    .search-bar ion-icon {
+        color: rgb(160, 160, 160);
+        width: 1.2rem;
+        height: 1.2rem;
+        cursor: pointer;
+        transition: 0.4s;
+    }
+
+        .search-bar ion-icon:hover {
+            color: rgb(200, 200, 200);
+        }
+
+.search-input {
+    width: 100%;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    font-size: 0.8rem;
+    color: rgb(160, 160, 160);
+    margin-left: 1rem;
+    font-family: 'Inter';
+}
+
+.generate-report-button {
+    display: flex;
+    align-items: center;
+    padding: 1rem 2rem;
+    width: 100%;
+    border: none;
+    outline: none;
+    background-color: black;
+    color: white;
+    font-family: 'Inter';
+    font-size: 0.8rem;
+    border-radius: 15px;
+    transition: 0.4s;
+}
+
+    .generate-report-button:hover {
+        background-color: rgb(160, 160, 160);
+    }
+
+/*Upper Section End*/
+
+
+
+/*Lower Section Start*/
+
+.lower-section {
+    background-color: #dddddd;
+    max-width: 75rem;
+    width: 100%;
+    margin: 0 auto;
+    padding: 1.5rem;
+    border-radius: 25px;
+    display: flex;
+    gap: 2rem;
+}
+
+.left{
+    margin-top: 1rem;
+    width:65%;
+}
+
+.right {
+    width: 35%;
+}
+
+.summary {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 2rem;
+}
+
+.summary-field {
+    border: none;
+    outline: none;
+    padding: 0.8rem;
+    border-radius: 10px;
+    background-color: white;
+    font-size: 1rem;
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+    width: 100%
+}
+
+.summary-item button{
+    margin-top: 1rem;
+    padding: 0.8rem 2.5rem;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+}
+
+.summary-item button:hover{
+    background-color: rgb(160,160,160);
+}
+
+.summary-hr {
+    border: none;
+    height: 3px;
+    background-color: #000;
+    margin-top: -1rem;
+    margin-bottom: 2rem;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.product-table {
+    width: 100% !important;
+    border: none !important;
+    border-collapse: separate !important;
+    border-radius: 15px !important;
+}
+
+    .product-table th {
+        background-color: black !important;
+        color: white !important;
+        text-align: center !important;
+        padding: 12px !important;
+        font-size: 14px !important;
+        font-weight: bold !important;
+        font-family: 'Inter' !important;
+        border: none !important;
+    }
+
+    .product-table td {
+        padding: 10px !important;
+        text-align: center !important;
+        border: 1px solid #ddd !important;
+        font-family: 'Inter' !important;
+        font-size: 12px !important;
+        border: none !important;
+    }
+
+    .product-table tr:nth-child(even) {
+        background-color: #eeeeee !important;
+    }
+
+    .product-table tr:nth-child(odd) {
+        background-color: #cccccc !important;
+    }
+
+    .product-table th:first-child {
+        border-top-left-radius: 15px !important;
+    }
+
+
+    .product-table th:last-child {
+        border-top-right-radius: 15px !important;
+    }
+
+    .product-table tr:last-child td:first-child {
+        border-bottom-left-radius: 15px !important;
+    }
+
+    .product-table tr:last-child td:last-child {
+        border-bottom-right-radius: 15px !important;
+    }
+
+/*lower Section End*/
+
+
+
+/*Container End*/
