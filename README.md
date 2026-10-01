@@ -39,5 +39,5 @@ This repository contains two major iterations of the system:
 
 
 ### Developer
-**Ahmad Shehroz Raza**
+**Sami Ullah**
 *Software Engineering Student | University of Gujrat*
